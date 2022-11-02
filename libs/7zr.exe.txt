@@ -1,0 +1,4 @@
+Download 7zr.exe and put it here
+
+Homepage: https://7-zip.org
+Direct link: https://7-zip.org/a/7zr.exe

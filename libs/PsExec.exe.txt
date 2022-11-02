@@ -1,0 +1,4 @@
+Download PsExec.exe and put it here
+
+About PsExec: https://learn.microsoft.com/en-us/sysinternals/downloads/psexec
+Direct link: https://download.sysinternals.com/files/PSTools.zip
